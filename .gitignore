@@ -10,5 +10,6 @@ cmake_install.cmake
 makefile
 *vcxproj*
 *.sln
-build
+build/*
+!build/cmake
 .DS_Store
